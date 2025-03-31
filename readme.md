@@ -130,12 +130,3 @@ The system achieves a Renaissance Authenticity Score of 0.74, indicating a high 
 - Cross-lingual support for multiple Renaissance-era languages
 - Higher resolution generation (256×256 and beyond)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- The Rodrigo corpus for historical Spanish text samples
-- The EB Garamond font project for Renaissance typography
-- PyTorch team for the deep learning framework 
