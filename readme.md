@@ -8,7 +8,7 @@ This project implements an advanced Generative Adversarial Network (GAN) approac
 
 ## Project Features
 
-- **Synthetic Renaissance Dataset Generation**: Creates a comprehensive training dataset with period-appropriate typography and layout
+- **Dataset loading and preperation**: Leverages training dataset with period-appropriate typography and layout
 - **GAN Architecture**: Custom-designed for text image generation with specialized layers for Renaissance-style characteristics
 - **Renaissance Augmentation Pipeline**: Sophisticated image processing to simulate historical printing artifacts
 - **Historical Spanish Text Integration**: Uses the Rodrigo corpus for authentic Spanish textual content
