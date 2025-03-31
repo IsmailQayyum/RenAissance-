@@ -2,11 +2,11 @@
 
 ![Renaissance Text Banner](synthetic_renaissance_data/samples.png)
 
-## 📜 Overview
+## Overview
 
 This project implements an advanced Generative Adversarial Network (GAN) approach to generate realistic Renaissance-style printed text images. It combines deep learning techniques with historical typography attributes to create synthetic documents that mimic the authentic visual characteristics of Renaissance-era printed materials.
 
-## 🔍 Project Features
+## Project Features
 
 - **Synthetic Renaissance Dataset Generation**: Creates a comprehensive training dataset with period-appropriate typography and layout
 - **GAN Architecture**: Custom-designed for text image generation with specialized layers for Renaissance-style characteristics
@@ -14,7 +14,7 @@ This project implements an advanced Generative Adversarial Network (GAN) approac
 - **Historical Spanish Text Integration**: Uses the Rodrigo corpus for authentic Spanish textual content
 - **Evaluation Metrics**: Custom metrics for measuring Renaissance authenticity
 
-## 📋 Project Structure
+## Project Structure
 
 ```
 renaissance_text_gan/
@@ -27,7 +27,7 @@ renaissance_text_gan/
 └── README.md                # Project documentation
 ```
 
-## 🧠 Technical Approach
+## Technical Approach
 
 ### 1. Synthetic Data Generation
 
@@ -60,7 +60,7 @@ The system applies the following historical printing effects:
 - **Rotation**: Subtle misalignment representative of manual printing
 - **Uneven Lighting**: Shadow gradients typical of bound books
 
-## 📸 Results
+## Results
 
 Our model generates highly convincing Renaissance-style text that captures the authentic degradation and characteristics of period documents:
 
@@ -72,7 +72,7 @@ Our model generates highly convincing Renaissance-style text that captures the a
 ![Sample 4](synthetic_renaissance_data/renaissance_text_0473.png)
 ![Sample 5](synthetic_renaissance_data/renaissance_text_0498.png)
 
-## 📊 Evaluation
+## Evaluation
 
 We evaluate our generated images using several custom metrics designed to measure Renaissance authenticity:
 
@@ -83,7 +83,7 @@ We evaluate our generated images using several custom metrics designed to measur
 5. **Ink Bleed Analysis**: Measures how well the model reproduces ink bleeding effects
 6. **Renaissance Authenticity Score**: A combined metric for overall quality assessment
 
-## 🚀 Usage
+## Usage
 
 ### Installation
 
@@ -116,13 +116,13 @@ python main.py --mode generate --num_pages 5
 python main.py --mode generate --model checkpoints/generator_final.pt --num_pages 10
 ```
 
-## 🔬 Experimental Results
+## Experimental Results
 
 Our research demonstrates that GANs can effectively learn and replicate the visual characteristics of Renaissance-era printed text. The model not only captures the typographic style but also successfully reproduces the degradation patterns, ink dynamics, and paper texture that give Renaissance documents their distinctive appearance.
 
 The system achieves a Renaissance Authenticity Score of 0.74, indicating a high level of fidelity to historical source materials.
 
-## 💡 Future Work
+## Future Work
 
 - Integration of illuminated manuscript decoration techniques
 - Extension to other historical periods and typography styles
