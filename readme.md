@@ -64,7 +64,8 @@ The system applies the following historical printing effects:
 
 Our model generates highly convincing Renaissance-style text that captures the authentic degradation and characteristics of period documents:
 
-![Sample 1](![image](https://github.com/user-attachments/assets/a2a6587a-b274-45ea-bf7d-3692b532d55d))
+![image](https://github.com/user-attachments/assets/63f97eaa-e22f-4cee-b3a1-cbc94af9da8a)
+
 ![Sample 2](synthetic_renaissance_data/renaissance_text_0437.png)
 ![Sample 3](synthetic_renaissance_data/renaissance_text_0462.png)
 ![Sample 4](synthetic_renaissance_data/renaissance_text_0473.png)
