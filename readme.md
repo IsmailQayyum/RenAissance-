@@ -29,14 +29,8 @@ renaissance_text_gan/
 
 ## Technical Approach
 
-### 1. Synthetic Data Generation
 
-We generate a dataset of Renaissance-style text images with the following characteristics:
-- **Typography**: EB Garamond font, a typeface based on 16th-century designs
-- **Page Layout**: Period-appropriate margins, paragraph indentation, and heading styles
-- **Textual Content**: Historical Spanish text from the Rodrigo corpus
-
-### 2. GAN Architecture
+### 1. GAN Architecture
 
 Our system implements a custom GAN with:
 
@@ -50,7 +44,7 @@ Our system implements a custom GAN with:
 - Instance normalization for stable training with varying batch sizes
 - Final linear layer for classification
 
-### 3. Renaissance Augmentation Pipeline
+### 2. Renaissance Augmentation Pipeline
 
 The system applies the following historical printing effects:
 - **Paper Texture**: Simulated parchment grain and aging
