@@ -1,6 +1,6 @@
 # Renaissance Text Generation Using GANs
 
-![Renaissance Text Banner](synthetic_renaissance_data/samples.png)
+
 
 ## Overview
 
