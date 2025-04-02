@@ -62,9 +62,7 @@ Our model generates highly convincing Renaissance-style text that captures the a
 
 ![image](https://github.com/user-attachments/assets/1715200f-ff3a-492d-8ade-19e1ae2857a6)
 
-![Sample 3](synthetic_renaissance_data/renaissance_text_0462.png)
-![Sample 4](synthetic_renaissance_data/renaissance_text_0473.png)
-![Sample 5](synthetic_renaissance_data/renaissance_text_0498.png)
+
 
 ## Evaluation
 
